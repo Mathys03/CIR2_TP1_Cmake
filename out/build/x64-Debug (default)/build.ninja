@@ -75,7 +75,7 @@ build fisrt_test.exe: CXX_EXECUTABLE_LINKER__fisrt_test_Debug CMakeFiles\fisrt_t
 # Utility command for edit_cache
 
 build CMakeFiles\edit_cache.util: CUSTOM_COMMAND
-  COMMAND = cmd.exe /C "cd /D "C:\Users\pmo\source\repos\examples\test_cmake\out\build\x64-Debug (default)" && "C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E echo "No interactive CMake dialog available.""
+  COMMAND = cmd.exe /C "cd /D "C:\Users\pmo\source\repos\courses\test_cmake\out\build\x64-Debug (default)" && "C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E echo "No interactive CMake dialog available.""
   DESC = No interactive CMake dialog available...
   restat = 1
 
@@ -86,7 +86,7 @@ build edit_cache: phony CMakeFiles\edit_cache.util
 # Utility command for rebuild_cache
 
 build CMakeFiles\rebuild_cache.util: CUSTOM_COMMAND
-  COMMAND = cmd.exe /C "cd /D "C:\Users\pmo\source\repos\examples\test_cmake\out\build\x64-Debug (default)" && "C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" --regenerate-during-build -SC:\Users\pmo\source\repos\examples\test_cmake -B"C:\Users\pmo\source\repos\examples\test_cmake\out\build\x64-Debug (default)""
+  COMMAND = cmd.exe /C "cd /D "C:\Users\pmo\source\repos\courses\test_cmake\out\build\x64-Debug (default)" && "C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" --regenerate-during-build -SC:\Users\pmo\source\repos\courses\test_cmake -B"C:\Users\pmo\source\repos\courses\test_cmake\out\build\x64-Debug (default)""
   DESC = Running CMake to regenerate build system...
   pool = console
   restat = 1
@@ -104,7 +104,7 @@ build fisrt_test: phony fisrt_test.exe
 # =============================================================================
 
 #############################################
-# Folder: C:/Users/pmo/source/repos/examples/test_cmake/out/build/x64-Debug (default)
+# Folder: C:/Users/pmo/source/repos/courses/test_cmake/out/build/x64-Debug (default)
 
 build all: phony fisrt_test.exe
 

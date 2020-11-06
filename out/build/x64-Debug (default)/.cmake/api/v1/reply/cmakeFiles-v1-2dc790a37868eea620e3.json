@@ -672,8 +672,8 @@
 	"kind" : "cmakeFiles",
 	"paths" : 
 	{
-		"build" : "C:/Users/pmo/source/repos/examples/test_cmake/out/build/x64-Debug (default)",
-		"source" : "C:/Users/pmo/source/repos/examples/test_cmake"
+		"build" : "C:/Users/pmo/source/repos/courses/test_cmake/out/build/x64-Debug (default)",
+		"source" : "C:/Users/pmo/source/repos/courses/test_cmake"
 	},
 	"version" : 
 	{

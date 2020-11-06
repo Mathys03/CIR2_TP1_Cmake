@@ -23,7 +23,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "c:/Users/pmo/source/repos/examples/test_cmake/out/build/x64-Debug (default)"
+			"value" : "c:/Users/pmo/source/repos/courses/test_cmake/out/build/x64-Debug (default)"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -499,7 +499,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/Users/pmo/source/repos/examples/test_cmake"
+			"value" : "C:/Users/pmo/source/repos/courses/test_cmake"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -511,7 +511,7 @@
 				}
 			],
 			"type" : "PATH",
-			"value" : "C:/Users/pmo/Source/Repos/examples/test_cmake/out/install/x64-Debug (default)"
+			"value" : "C:/Users/pmo/Source/Repos/courses/test_cmake/out/install/x64-Debug (default)"
 		},
 		{
 			"name" : "CMAKE_LINKER",
@@ -1035,7 +1035,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/pmo/source/repos/examples/test_cmake/out/build/x64-Debug (default)"
+			"value" : "C:/Users/pmo/source/repos/courses/test_cmake/out/build/x64-Debug (default)"
 		},
 		{
 			"name" : "fisrt_test_SOURCE_DIR",
@@ -1047,7 +1047,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/pmo/source/repos/examples/test_cmake"
+			"value" : "C:/Users/pmo/source/repos/courses/test_cmake"
 		}
 	],
 	"kind" : "cache",

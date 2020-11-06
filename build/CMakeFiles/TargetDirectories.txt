@@ -1,0 +1,3 @@
+C:/Users/pmo/source/repos/courses/test_cmake/build/CMakeFiles/fisrt_test.dir
+C:/Users/pmo/source/repos/courses/test_cmake/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/pmo/source/repos/courses/test_cmake/build/CMakeFiles/ZERO_CHECK.dir
