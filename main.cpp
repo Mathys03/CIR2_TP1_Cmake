@@ -2,6 +2,6 @@
 #include <iostream>
 
 int main(){
-	std::cout << "Hello folks\n";
+	std::cout << "Hello world\n";
 	return EXIT_SUCCESS;
 }
